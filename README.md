@@ -12,8 +12,6 @@ This project is made in Laravel version 10. In this project, I used an Admin LTE
 
 
 
-
-
 ## Installation & usage
 - For Install you have to clone this repo or you can fire this command as well.
 
